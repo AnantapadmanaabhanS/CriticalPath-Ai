@@ -1,0 +1,6 @@
+{
+  "name": "Prism - AI Emergency Response",
+  "description": "Automatic AI accident detection and ambulance dispatch system connecting vehicles, emergency responders, and command centers.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
